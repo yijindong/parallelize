@@ -10,11 +10,15 @@ Usage:
 -    a.sh 3 3
 -    a.sh 4 4
 -    a.sh 5 5
+
   to use parallize
+  
 -    ./parallize a.sh 1,1 2,2 3,3 4,4 5,5
 -    ./parallize -n 2 a.sh 1,1 2,2 3,3 4,4 5,5
 -    ./parallize -csv a.csv -n 2 a.sh
+
     a.csf:
+    
 -    1,1
 -    2,2
 -    3,3
