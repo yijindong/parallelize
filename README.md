@@ -26,7 +26,7 @@ Usage:
 -    5,5
 
 install:
-   go build main.go
+   go build main.go or use bin/parallelize_linux 
   
 
 [mysql@collie1 ~]$ ./parallelize_linux  -h
