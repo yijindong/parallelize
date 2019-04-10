@@ -31,9 +31,10 @@ install:
 
 [mysql@collie1 ~]$ ./parallelize_linux  -h
 Usage of ./parallelize_linux:
-  -csv string
-        CSV file containing arguments for each job
-  -n workers
-        Number of workers (default 8)
-  -q    Quiet
+
+     -csv string
+           CSV file containing arguments for each job
+     -n workers
+           Number of workers (default 8)
+     -q    Quiet
 
